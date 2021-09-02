@@ -1,0 +1,2 @@
+# reader
+Force reader view
